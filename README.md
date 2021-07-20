@@ -1,4 +1,4 @@
-<a href="" target="blank"><img align="center" src="https://res.cloudinary.com/dkiurfsjm/image/upload/v1626784862/manisuec_vxuneb.gif" height="100" /></a>
+![Uploading manisuec.gif…]()
 
 ### Hi there 👋
 
