@@ -7,13 +7,12 @@
 [<a href="https://www.linkedin.com/in/manish-prasad-64448614/" target="_blank"><img src="https://user-images.githubusercontent.com/6031883/126328482-597aad4d-5c36-4c0a-8a78-125541bed359.png" alt="linkedin" width="32" height="32"></a>](https://www.linkedin.com/in/manish-prasad-64448614/) [<a href="https://twitter.com/_manish25" target="_blank"><img src="https://user-images.githubusercontent.com/6031883/126327351-1c911503-61ef-4a3a-952b-47f2c2bec3fb.png" alt="twitter" width="32" height="32"></a>](https://twitter.com/_manish25) 
 
 <br />
-<br />
 ### Languages and Tools
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <br />
 <br />
