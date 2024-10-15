@@ -4,7 +4,7 @@
 [<a href="https://techinsights.manisuec.com" target="_blank"><img src="https://user-images.githubusercontent.com/6031883/126328786-4b6cda83-5401-4b7b-ab96-0f82ef45170c.png" alt="https://techinsights.manisuec.com" width="32" height="32" align="left"></a>](https://techinsights.manisuec.com) 
 [<a href="https://www.linkedin.com/in/manish-prasad-64448614/" target="_blank"><img src="https://user-images.githubusercontent.com/6031883/126328482-597aad4d-5c36-4c0a-8a78-125541bed359.png" alt="linkedin" width="32" height="32" align="left"></a>](https://www.linkedin.com/in/manish-prasad-64448614/) [<a href="https://twitter.com/_manish25" target="_blank"><img src="https://user-images.githubusercontent.com/6031883/126327351-1c911503-61ef-4a3a-952b-47f2c2bec3fb.png" alt="twitter" width="32" height="32" align="left"></a>](https://twitter.com/_manish25)
 [<a href="https://manisuec.com" target="_blank"><img src="https://user-images.githubusercontent.com/6031883/143293913-79d44c90-9013-4199-938d-763bd5d97573.jpeg" alt="https://manisuec.com" width="32" height="32" align="left"></a>](https://manisuec.com)
-[<a href="https://www.instagram.com/_lifeclicks"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Manish Prasad Instagram profile" width="30"/></a>](https://manisuec.com)
+[<a href="https://www.instagram.com/_lifeclicks"><img src="https://raw.githubusercontent.com/manisuec/manisuec/refs/heads/main/.github/images/instagram.svg" title="Instagram" alt="Manish Prasad Instagram profile" width="30"/></a>](https://manisuec.com)
 
 </br>
 </br>
