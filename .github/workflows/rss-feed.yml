@@ -18,5 +18,4 @@ jobs:
           comment_tag_name: "BLOG"
           feed_list: "https://rss.app/feeds/Y6oZPFl6q4AUthl5.xml"
           max_post_count: 5
-          template: '$title - $description'
-          date_format: "ddd, DD MMM YYYY HH:mm:ss"
+          date_format: "ddd, DD MMM YYYY"
