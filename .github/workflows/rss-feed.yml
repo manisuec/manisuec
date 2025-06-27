@@ -19,4 +19,4 @@ jobs:
           feed_list: "https://techinsights.manisuec.com/index.xml"
           max_post_count: 5
           template: '$title - $description'
-          date_format: "mmm dd, yyyy"
+          date_format: "ddd, DD MMM YYYY HH:mm:ss"
