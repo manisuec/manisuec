@@ -34,15 +34,15 @@
   </a>
   <br />
   <!-- BLOG:START -->
- [MongoDB Security: Best Practices and Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongodb-security-best-practices/): Jun 26, 2025 
+ 💫:  [MongoDB Security: Best Practices and Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongodb-security-best-practices/) 
 
- [React Hooks Anti-Patterns: A Comprehensive Guide to Avoiding Common Pitfalls](https://techinsights.manisuec.com/reactjs/react-hooks-antipatterns/): Jun 21, 2025 
+ 💫:  [React Hooks Anti-Patterns: A Comprehensive Guide to Avoiding Common Pitfalls](https://techinsights.manisuec.com/reactjs/react-hooks-antipatterns/) 
 
- [Avoiding Common Mongoose Schema Design Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongoose-schema-antipatterns/): Jun 15, 2025 
+ 🔥:  [Avoiding Common Mongoose Schema Design Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongoose-schema-antipatterns/) 
 
- [Mastering Mongoose Transactions: A Comprehensive Guide](https://techinsights.manisuec.com/mongodb/mongoose-transactions/): Jun 09, 2025 
+ 🔥:  [Mastering Mongoose Transactions: A Comprehensive Guide](https://techinsights.manisuec.com/mongodb/mongoose-transactions/) 
 
- [Deep Dive into Object Memory Management in JavaScript](https://techinsights.manisuec.com/javascript/object-memory-management/): Jun 02, 2025 
+ 💯:  [Deep Dive into Object Memory Management in JavaScript](https://techinsights.manisuec.com/javascript/object-memory-management/) 
 <!-- BLOG:END -->
 </div>
 
