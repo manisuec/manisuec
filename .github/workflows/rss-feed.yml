@@ -19,3 +19,4 @@ jobs:
           feed_list: "https://rss.app/feeds/Y6oZPFl6q4AUthl5.xml"
           max_post_count: 5
           date_format: "ddd, DD MMM YYYY"
+          template: '$newline[$title]($url): $date $description $newline'
