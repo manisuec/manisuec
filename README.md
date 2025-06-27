@@ -32,9 +32,13 @@
   <a href="https://techinsights.manisuec.com">
     <img src="https://img.shields.io/badge/Blog-Tech%20Insights-blue?style=for-the-badge&logo=rss" alt="Blog">
   </a>
-  <!-- BLOG:START -->About - My life has been largely driven by the philosphy of: &amp;ldquo;In character, in manners, in style, in all things; the supreme excellence is Simplicity!&amp;quot;
-My name is Manish Prasad. I am part of &amp;lsquo;Founding Team&amp;rsquo; at Powerplay.MongoDB Security: Best Practices and Anti-Patterns - MongoDB is a leading NoSQL database and Mongoose is the de facto ODM &lpar;Object Document Mapper&rpar; for Node.js applications. However, security is often an afterthought in many development cycles. This guide delivers an authoritative, technical deep-dive into MongoDB and Mongoose security, equipping you with actionable best practices and highlighting critical anti-patterns to avoid.React Hooks Anti-Patterns: A Comprehensive Guide to Avoiding Common Pitfalls - React Hooks fundamentally transformed how we write functional components, introducing a more intuitive and powerful way to manage state and side effects. However, this power comes with significant responsibility. After extensive experience with hooks in production environments, I&amp;rsquo;ve identified critical anti-patterns that consistently lead to bugs, performance degradation, and maintenance nightmares.Avoiding Common Mongoose Schema Design Anti-Patterns - MongoDB schema less flexibility combined with Mongoose&amp;rsquo;s rich feature set makes it a powerful combination for Nodejs applications. However, this flexibility can lead developers down problematic paths that hurt application performance, maintainability and scalability.Mastering Mongoose Transactions: A Comprehensive Guide - Mongoose serves as a powerful abstraction layer between Nodejs applications and MongoDB, providing schema validation, middleware hooks and elegant query building.
-Real world applications often require coordinating multiple related operations that must either all succeed or all fail together.<!-- BLOG:END -->
+  <!-- BLOG:START -->
+- [MongoDB Security: Best Practices and Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongodb-security-best-practices/)
+- [React Hooks Anti-Patterns: A Comprehensive Guide to Avoiding Common Pitfalls](https://techinsights.manisuec.com/reactjs/react-hooks-antipatterns/)
+- [Avoiding Common Mongoose Schema Design Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongoose-schema-antipatterns/)
+- [Mastering Mongoose Transactions: A Comprehensive Guide](https://techinsights.manisuec.com/mongodb/mongoose-transactions/)
+- [Deep Dive into Object Memory Management in JavaScript](https://techinsights.manisuec.com/javascript/object-memory-management/)
+<!-- BLOG:END -->
 </div>
 
 <!--
