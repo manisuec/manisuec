@@ -32,6 +32,7 @@
   <a href="https://techinsights.manisuec.com">
     <img src="https://img.shields.io/badge/Blog-Tech%20Insights-blue?style=for-the-badge&logo=rss" alt="Blog">
   </a>
+  <br />
   <!-- BLOG:START -->
 [MongoDB Security: Best Practices and Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongodb-security-best-practices/): Thu, DD 3030 YYYY &lt;div&gt;&lt;img src=&quot;https://res.cloudinary.com/dkiurfsjm/image/upload/v1751003156/mongodb-security_ronkbc.webp&quot; style=&quot;width: 100%;&quot; /&gt;&lt;div&gt;MongoDB security best practices and anti-patterns. Learn to protect your data with expert tips, real-world examples and code&lt;/div&gt;&lt;/div&gt; 
 
