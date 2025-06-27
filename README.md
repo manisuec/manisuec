@@ -27,11 +27,13 @@
 <br />
 
 <!-- Add this to your repository's README.md -->
-<div align="center">
+<div align="left">
   <h3>📖 Latest from Tech Insights</h3>
   <a href="https://techinsights.manisuec.com">
     <img src="https://img.shields.io/badge/Blog-Tech%20Insights-blue?style=for-the-badge&logo=rss" alt="Blog">
   </a>
+  <!-- BLOG:START -->
+  <!-- BLOG:END -->
 </div>
 
 <!--
