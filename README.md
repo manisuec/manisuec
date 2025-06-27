@@ -33,11 +33,15 @@
     <img src="https://img.shields.io/badge/Blog-Tech%20Insights-blue?style=for-the-badge&logo=rss" alt="Blog">
   </a>
   <!-- BLOG:START -->
-- [MongoDB Security: Best Practices and Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongodb-security-best-practices/)
-- [React Hooks Anti-Patterns: A Comprehensive Guide to Avoiding Common Pitfalls](https://techinsights.manisuec.com/reactjs/react-hooks-antipatterns/)
-- [Avoiding Common Mongoose Schema Design Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongoose-schema-antipatterns/)
-- [Mastering Mongoose Transactions: A Comprehensive Guide](https://techinsights.manisuec.com/mongodb/mongoose-transactions/)
-- [Deep Dive into Object Memory Management in JavaScript](https://techinsights.manisuec.com/javascript/object-memory-management/)
+[MongoDB Security: Best Practices and Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongodb-security-best-practices/): Thu, DD 3030 YYYY &lt;div&gt;&lt;img src=&quot;https://res.cloudinary.com/dkiurfsjm/image/upload/v1751003156/mongodb-security_ronkbc.webp&quot; style=&quot;width: 100%;&quot; /&gt;&lt;div&gt;MongoDB security best practices and anti-patterns. Learn to protect your data with expert tips, real-world examples and code&lt;/div&gt;&lt;/div&gt; 
+
+[React Hooks Anti-Patterns: A Comprehensive Guide to Avoiding Common Pitfalls](https://techinsights.manisuec.com/reactjs/react-hooks-antipatterns/): Sat, DD 3030 YYYY &lt;div&gt;&lt;img src=&quot;https://res.cloudinary.com/dkiurfsjm/image/upload/v1750072871/react-hooks_aij37f.jpg&quot; style=&quot;width: 100%;&quot; /&gt;&lt;div&gt;Learn to avoid common React Hooks anti-patterns that cause bugs, performance issues and maintenance headaches. Fix memory leaks, stale closures and improper hook usage.&lt;/div&gt;&lt;/div&gt; 
+
+[Avoiding Common Mongoose Schema Design Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongoose-schema-antipatterns/): Sun, DD 3030 YYYY &lt;div&gt;&lt;img src=&quot;https://res.cloudinary.com/dkiurfsjm/image/upload/v1750072871/database-schema_aij37f.jpg&quot; style=&quot;width: 100%;&quot; /&gt;&lt;div&gt;Learn to avoid common Mongoose schema design anti-patterns that hurt MongoDB performance. Fix over-normalization, indexing issues and validation problems.&lt;/div&gt;&lt;/div&gt; 
+
+[Mastering Mongoose Transactions: A Comprehensive Guide](https://techinsights.manisuec.com/mongodb/mongoose-transactions/): Mon, DD 3030 YYYY &lt;div&gt;&lt;img src=&quot;https://res.cloudinary.com/dkiurfsjm/image/upload/v1748936387/pexels-jorge-jesus-137537-614117_ezmo3s.jpg&quot; style=&quot;width: 100%;&quot; /&gt;&lt;div&gt;Explore how JavaScript manages object memory: learn about heap allocation, hidden classes, garbage collection and best practices for efficient, leak-free code.&lt;/div&gt;&lt;/div&gt; 
+
+[Deep Dive into Object Memory Management in JavaScript](https://techinsights.manisuec.com/javascript/object-memory-management/): Mon, DD 3030 YYYY &lt;div&gt;&lt;img src=&quot;https://res.cloudinary.com/dkiurfsjm/image/upload/v1748936387/pexels-jorge-jesus-137537-614117_ezmo3s.jpg&quot; style=&quot;width: 100%;&quot; /&gt;&lt;div&gt;Explore how JavaScript manages object memory: learn about heap allocation, hidden classes, garbage collection and best practices for efficient, leak-free code.&lt;/div&gt;&lt;/div&gt; 
 <!-- BLOG:END -->
 </div>
 
