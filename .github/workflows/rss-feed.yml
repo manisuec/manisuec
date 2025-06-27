@@ -19,4 +19,4 @@ jobs:
           feed_list: "https://rss.app/feeds/Y6oZPFl6q4AUthl5.xml"
           max_post_count: 5
           date_format: "mmm dd, yyyy"
-          template: '$newline $randomEmoji(💯,🔥,💫,🚀):  [$title]($url) $newline'
+          template: '$newline$newline $randomEmoji(💯,🔥,💫,🚀):  [$title]($url) $newline'
