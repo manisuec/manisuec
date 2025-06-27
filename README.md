@@ -23,9 +23,6 @@
 
 [![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manisuec)](https://github.com/manisuec/github-readme-stats)
 
-<br />
-<br />
-
 <!-- Add this to your repository's README.md -->
 <div align="left">
   <h3>📖 Latest from Tech Insights</h3>
