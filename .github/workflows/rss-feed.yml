@@ -16,7 +16,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG"
-          feed_list: "https://techinsights.manisuec.com/index.xml"
+          feed_list: "https://rss.app/feeds/Y6oZPFl6q4AUthl5.xml"
           max_post_count: 5
           template: '$title - $description'
           date_format: "ddd, DD MMM YYYY HH:mm:ss"
