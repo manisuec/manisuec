@@ -32,19 +32,19 @@
   <br />
   <!-- BLOG:START -->
 
+ 💫:  [Mongoose Schema Validation: Best Practices and Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongoose-schema-validation/) 
+
+
  💫:  [MongoDB Security: Best Practices and Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongodb-security-best-practices/) 
 
 
- 💫:  [React Hooks Anti-Patterns: A Comprehensive Guide to Avoiding Common Pitfalls](https://techinsights.manisuec.com/reactjs/react-hooks-antipatterns/) 
+ 🔥:  [React Hooks Anti-Patterns: A Comprehensive Guide to Avoiding Common Pitfalls](https://techinsights.manisuec.com/reactjs/react-hooks-antipatterns/) 
 
 
  🔥:  [Avoiding Common Mongoose Schema Design Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongoose-schema-antipatterns/) 
 
 
- 🔥:  [Mastering Mongoose Transactions: A Comprehensive Guide](https://techinsights.manisuec.com/mongodb/mongoose-transactions/) 
-
-
- 💯:  [Deep Dive into Object Memory Management in JavaScript](https://techinsights.manisuec.com/javascript/object-memory-management/) 
+ 💯:  [Mastering Mongoose Transactions: A Comprehensive Guide](https://techinsights.manisuec.com/mongodb/mongoose-transactions/) 
 <!-- BLOG:END -->
 </div>
 
