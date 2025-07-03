@@ -17,6 +17,6 @@ jobs:
         with:
           comment_tag_name: "BLOG"
           feed_list: "https://rss.app/feeds/Y6oZPFl6q4AUthl5.xml"
-          max_post_count: 5
+          max_post_count: 7
           date_format: "mmm dd, yyyy"
           template: '$newline$newline $randomEmoji(💯,🔥,💫,🚀):  [$title]($url) $newline'
