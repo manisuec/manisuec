@@ -45,6 +45,9 @@
 
 
  💯:  [Mastering Mongoose Transactions: A Comprehensive Guide](https://techinsights.manisuec.com/mongodb/mongoose-transactions/) 
+
+
+ 💫:  [Deep Dive into Object Memory Management in JavaScript](https://techinsights.manisuec.com/javascript/object-memory-management/) 
 <!-- BLOG:END -->
 </div>
 
