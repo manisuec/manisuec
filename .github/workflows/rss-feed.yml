@@ -19,4 +19,4 @@ jobs:
           feed_list: "https://techinsights.manisuec.com/index.xml"
           max_post_count: 7
           date_format: "mmm dd, yyyy"
-          template: '$newline$newline $randomEmoji(💯,🔥,💫,🚀):  [$title]($url) $newline'
+          template: '$newline$newline $randomEmoji(💯,🔥,📘,🚀,⛳,🏆,♻️):  [$title]($url) $newline'
