@@ -16,7 +16,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG"
-          feed_list: "https://rss.app/feeds/Y6oZPFl6q4AUthl5.xml"
+          feed_list: "https://techinsights.manisuec.com/index.xml"
           max_post_count: 7
           date_format: "mmm dd, yyyy"
           template: '$newline$newline $randomEmoji(💯,🔥,💫,🚀):  [$title]($url) $newline'
