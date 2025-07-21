@@ -32,25 +32,25 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Common Pitfalls with Mongoose Plugins: Avoid Costly Mistakes](https://techinsights.manisuec.com/mongodb/mongoose-plugins-pitfalls/) 
+
+
  ⛳:  [Mongoose Plugins Made Simple: A Beginner Friendly Guide](https://techinsights.manisuec.com/mongodb/mongoose-plugins-guide/) 
 
 
- ⛳:  [Mongoose Population Deep Dive](https://techinsights.manisuec.com/mongodb/mongoose-data-population/) 
+ 📘:  [Mongoose Population Deep Dive](https://techinsights.manisuec.com/mongodb/mongoose-data-population/) 
 
 
  📘:  [Mongoose Schema Validation: Best Practices and Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongoose-schema-validation/) 
 
 
- 📘:  [About](https://techinsights.manisuec.com/about/) 
+ 💯:  [About](https://techinsights.manisuec.com/about/) 
 
 
- 💯:  [MongoDB Security: Best Practices and Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongodb-security-best-practices/) 
+ 🚀:  [MongoDB Security: Best Practices and Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongodb-security-best-practices/) 
 
 
- 🚀:  [React Hooks Anti-Patterns: A Comprehensive Guide to Avoiding Common Pitfalls](https://techinsights.manisuec.com/reactjs/react-hooks-antipatterns/) 
-
-
- ♻️:  [Avoiding Common Mongoose Schema Design Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongoose-schema-antipatterns/) 
+ ♻️:  [React Hooks Anti-Patterns: A Comprehensive Guide to Avoiding Common Pitfalls](https://techinsights.manisuec.com/reactjs/react-hooks-antipatterns/) 
 <!-- BLOG:END -->
 </div>
 
