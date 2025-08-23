@@ -32,25 +32,25 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Promise.all&lpar;&rpar; Is Fine... Until It Isn’t!](https://techinsights.manisuec.com/nodejs/nodejs-batch-executor/) 
+
+
  ⛳:  [7 Powerful Nodejs Middleware Patterns for Cleaner Expressjs Apps](https://techinsights.manisuec.com/nodejs/nodejs-expressjs-middlewares/) 
 
 
- ⛳:  [Dot vs Bracket Notation in JavaScript Objects: A Complete Guide](https://techinsights.manisuec.com/javascript/object-and-bracket-notation/) 
+ 📘:  [Dot vs Bracket Notation in JavaScript Objects: A Complete Guide](https://techinsights.manisuec.com/javascript/object-and-bracket-notation/) 
 
 
  📘:  [Common Pitfalls with Mongoose Plugins: Avoid Costly Mistakes](https://techinsights.manisuec.com/mongodb/mongoose-plugins-pitfalls/) 
 
 
- 📘:  [Mongoose Plugins Made Simple: A Beginner Friendly Guide](https://techinsights.manisuec.com/mongodb/mongoose-plugins-guide/) 
+ 💯:  [Mongoose Plugins Made Simple: A Beginner Friendly Guide](https://techinsights.manisuec.com/mongodb/mongoose-plugins-guide/) 
 
 
- 💯:  [Mongoose Population Deep Dive](https://techinsights.manisuec.com/mongodb/mongoose-data-population/) 
+ 🚀:  [Mongoose Population Deep Dive](https://techinsights.manisuec.com/mongodb/mongoose-data-population/) 
 
 
- 🚀:  [Mongoose Schema Validation: Best Practices and Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongoose-schema-validation/) 
-
-
- ♻️:  [About](https://techinsights.manisuec.com/about/) 
+ ♻️:  [Mongoose Schema Validation: Best Practices and Anti-Patterns](https://techinsights.manisuec.com/mongodb/mongoose-schema-validation/) 
 <!-- BLOG:END -->
 </div>
 
