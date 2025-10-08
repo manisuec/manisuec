@@ -32,25 +32,25 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Bring AI to Javascript with Nodejs and Tensorflowjs](https://techinsights.manisuec.com/nodejs/ai-with-nodejs-and-tensorflowjs/) 
+
+
  ⛳:  [High Performance Expressjs APIs with Native SQLite Caching](https://techinsights.manisuec.com/nodejs/expressjs-sqlite-caching/) 
 
 
- ⛳:  [SQLite Nodejs Guide: Native Module Tutorial &amp; Examples](https://techinsights.manisuec.com/nodejs/nodejs-sqlite-guide/) 
+ 📘:  [SQLite Nodejs Guide: Native Module Tutorial &amp; Examples](https://techinsights.manisuec.com/nodejs/nodejs-sqlite-guide/) 
 
 
  📘:  [Nodejs Security Checklist To Prevent Common Vulnerabilities](https://techinsights.manisuec.com/nodejs/nodejs-security-checklist/) 
 
 
- 📘:  [MongoDB Queryable Encryption: Secure Data Queries in Nodejs](https://techinsights.manisuec.com/mongodb/mongodb-queryable-encryption/) 
+ 💯:  [MongoDB Queryable Encryption: Secure Data Queries in Nodejs](https://techinsights.manisuec.com/mongodb/mongodb-queryable-encryption/) 
 
 
- 💯:  [Promise.all&lpar;&rpar; Is Fine... Until It Isn’t!](https://techinsights.manisuec.com/nodejs/nodejs-batch-executor/) 
+ 🚀:  [Promise.all&lpar;&rpar; Is Fine... Until It Isn’t!](https://techinsights.manisuec.com/nodejs/nodejs-batch-executor/) 
 
 
- 🚀:  [7 Powerful Nodejs Middleware Patterns for Cleaner Expressjs Apps](https://techinsights.manisuec.com/nodejs/nodejs-expressjs-middlewares/) 
-
-
- ♻️:  [Dot vs Bracket Notation in JavaScript Objects: A Complete Guide](https://techinsights.manisuec.com/javascript/object-and-bracket-notation/) 
+ ♻️:  [7 Powerful Nodejs Middleware Patterns for Cleaner Expressjs Apps](https://techinsights.manisuec.com/nodejs/nodejs-expressjs-middlewares/) 
 <!-- BLOG:END -->
 </div>
 
