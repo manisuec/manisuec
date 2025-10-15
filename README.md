@@ -32,25 +32,25 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Mongoose Advanced Patterns: 7 Uncommon Techniques for Complex Data Modeling](https://techinsights.manisuec.com/mongodb/mongoose-uncommon-patterns/) 
+
+
  ⛳:  [Amazon DynamoDB: The Complete Production Guide to NoSQL at Scale](https://techinsights.manisuec.com/nodejs/dynamodb-complete-guide/) 
 
 
- ⛳:  [Node.js 24: The Game Changer Release You&#39;ve Been Waiting For](https://techinsights.manisuec.com/nodejs/nodejs-24/) 
+ 📘:  [Node.js 24: The Game Changer Release You&#39;ve Been Waiting For](https://techinsights.manisuec.com/nodejs/nodejs-24/) 
 
 
  📘:  [Bring AI to Javascript with Nodejs and Tensorflowjs](https://techinsights.manisuec.com/nodejs/ai-with-nodejs-and-tensorflowjs/) 
 
 
- 📘:  [High Performance Expressjs APIs with Native SQLite Caching](https://techinsights.manisuec.com/nodejs/expressjs-sqlite-caching/) 
+ 💯:  [High Performance Expressjs APIs with Native SQLite Caching](https://techinsights.manisuec.com/nodejs/expressjs-sqlite-caching/) 
 
 
- 💯:  [SQLite Nodejs Guide: Native Module Tutorial &amp; Examples](https://techinsights.manisuec.com/nodejs/nodejs-sqlite-guide/) 
+ 🚀:  [SQLite Nodejs Guide: Native Module Tutorial &amp; Examples](https://techinsights.manisuec.com/nodejs/nodejs-sqlite-guide/) 
 
 
- 🚀:  [Nodejs Security Checklist To Prevent Common Vulnerabilities](https://techinsights.manisuec.com/nodejs/nodejs-security-checklist/) 
-
-
- ♻️:  [MongoDB Queryable Encryption: Secure Data Queries in Nodejs](https://techinsights.manisuec.com/mongodb/mongodb-queryable-encryption/) 
+ ♻️:  [Nodejs Security Checklist To Prevent Common Vulnerabilities](https://techinsights.manisuec.com/nodejs/nodejs-security-checklist/) 
 <!-- BLOG:END -->
 </div>
 
