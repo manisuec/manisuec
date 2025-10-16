@@ -32,25 +32,25 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Supercharging JavaScript: V8 JIT Optimization Techniques](https://techinsights.manisuec.com/javascript/v8-jit-compiler-optimization-techniques/) 
+
+
  ⛳:  [Mongoose Advanced Patterns: 7 Uncommon Techniques for Complex Data Modeling](https://techinsights.manisuec.com/mongodb/mongoose-uncommon-patterns/) 
 
 
- ⛳:  [Amazon DynamoDB: The Complete Production Guide to NoSQL at Scale](https://techinsights.manisuec.com/nodejs/dynamodb-complete-guide/) 
+ 📘:  [Amazon DynamoDB: The Complete Production Guide to NoSQL at Scale](https://techinsights.manisuec.com/nodejs/dynamodb-complete-guide/) 
 
 
  📘:  [Node.js 24: The Game Changer Release You&#39;ve Been Waiting For](https://techinsights.manisuec.com/nodejs/nodejs-24/) 
 
 
- 📘:  [Bring AI to Javascript with Nodejs and Tensorflowjs](https://techinsights.manisuec.com/nodejs/ai-with-nodejs-and-tensorflowjs/) 
+ 💯:  [Bring AI to Javascript with Nodejs and Tensorflowjs](https://techinsights.manisuec.com/nodejs/ai-with-nodejs-and-tensorflowjs/) 
 
 
- 💯:  [High Performance Expressjs APIs with Native SQLite Caching](https://techinsights.manisuec.com/nodejs/expressjs-sqlite-caching/) 
+ 🚀:  [High Performance Expressjs APIs with Native SQLite Caching](https://techinsights.manisuec.com/nodejs/expressjs-sqlite-caching/) 
 
 
- 🚀:  [SQLite Nodejs Guide: Native Module Tutorial &amp; Examples](https://techinsights.manisuec.com/nodejs/nodejs-sqlite-guide/) 
-
-
- ♻️:  [Nodejs Security Checklist To Prevent Common Vulnerabilities](https://techinsights.manisuec.com/nodejs/nodejs-security-checklist/) 
+ ♻️:  [SQLite Nodejs Guide: Native Module Tutorial &amp; Examples](https://techinsights.manisuec.com/nodejs/nodejs-sqlite-guide/) 
 <!-- BLOG:END -->
 </div>
 
