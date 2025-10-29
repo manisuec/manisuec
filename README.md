@@ -32,25 +32,25 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Node.js Error Handling: Strategies for Production Applications](https://techinsights.manisuec.com/nodejs/error-handling-nodejs/) 
+
+
  ⛳:  [Puppeteer Mastery: Complete Guide to Headless Browser Automation](https://techinsights.manisuec.com/nodejs/puppeteer-mastery-guide/) 
 
 
- ⛳:  [Supercharging JavaScript: V8 JIT Optimization Techniques](https://techinsights.manisuec.com/javascript/v8-jit-compiler-optimization-techniques/) 
+ 📘:  [Supercharging JavaScript: V8 JIT Optimization Techniques](https://techinsights.manisuec.com/javascript/v8-jit-compiler-optimization-techniques/) 
 
 
  📘:  [Mongoose Advanced Patterns: 7 Uncommon Techniques for Complex Data Modeling](https://techinsights.manisuec.com/mongodb/mongoose-uncommon-patterns/) 
 
 
- 📘:  [Amazon DynamoDB: The Complete Production Guide to NoSQL at Scale](https://techinsights.manisuec.com/nodejs/dynamodb-complete-guide/) 
+ 💯:  [Amazon DynamoDB: The Complete Production Guide to NoSQL at Scale](https://techinsights.manisuec.com/nodejs/dynamodb-complete-guide/) 
 
 
- 💯:  [Node.js 24: The Game Changer Release You&#39;ve Been Waiting For](https://techinsights.manisuec.com/nodejs/nodejs-24/) 
+ 🚀:  [Node.js 24: The Game Changer Release You&#39;ve Been Waiting For](https://techinsights.manisuec.com/nodejs/nodejs-24/) 
 
 
- 🚀:  [Bring AI to Javascript with Nodejs and Tensorflowjs](https://techinsights.manisuec.com/nodejs/ai-with-nodejs-and-tensorflowjs/) 
-
-
- ♻️:  [High Performance Expressjs APIs with Native SQLite Caching](https://techinsights.manisuec.com/nodejs/expressjs-sqlite-caching/) 
+ ♻️:  [Bring AI to Javascript with Nodejs and Tensorflowjs](https://techinsights.manisuec.com/nodejs/ai-with-nodejs-and-tensorflowjs/) 
 <!-- BLOG:END -->
 </div>
 
