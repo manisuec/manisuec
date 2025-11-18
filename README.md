@@ -32,25 +32,25 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [HTTPS and SSL/TLS: Securing Node.js Applications in 2025](https://techinsights.manisuec.com/nodejs/https-ssl-tls-securing-nodejs-applications/) 
+
+
  ⛳:  [Ship Safer Nodejs APIs: Validate &amp; Sanitize &lpar;Joi vs Zod&rpar;](https://techinsights.manisuec.com/nodejs/input-validation-and-sanitization-joi-vs-zod/) 
 
 
- ⛳:  [Node.js Error Handling: Strategies for Production Applications](https://techinsights.manisuec.com/nodejs/error-handling-nodejs/) 
+ 📘:  [Node.js Error Handling: Strategies for Production Applications](https://techinsights.manisuec.com/nodejs/error-handling-nodejs/) 
 
 
  📘:  [Puppeteer Mastery: Complete Guide to Headless Browser Automation](https://techinsights.manisuec.com/nodejs/puppeteer-mastery-guide/) 
 
 
- 📘:  [Supercharging JavaScript: V8 JIT Optimization Techniques](https://techinsights.manisuec.com/javascript/v8-jit-compiler-optimization-techniques/) 
+ 💯:  [Supercharging JavaScript: V8 JIT Optimization Techniques](https://techinsights.manisuec.com/javascript/v8-jit-compiler-optimization-techniques/) 
 
 
- 💯:  [Mongoose Advanced Patterns: 7 Uncommon Techniques for Complex Data Modeling](https://techinsights.manisuec.com/mongodb/mongoose-uncommon-patterns/) 
+ 🚀:  [Mongoose Advanced Patterns: 7 Uncommon Techniques for Complex Data Modeling](https://techinsights.manisuec.com/mongodb/mongoose-uncommon-patterns/) 
 
 
- 🚀:  [Amazon DynamoDB: The Complete Production Guide to NoSQL at Scale](https://techinsights.manisuec.com/nodejs/dynamodb-complete-guide/) 
-
-
- ♻️:  [Node.js 24: The Game Changer Release You&#39;ve Been Waiting For](https://techinsights.manisuec.com/nodejs/nodejs-24/) 
+ ♻️:  [Amazon DynamoDB: The Complete Production Guide to NoSQL at Scale](https://techinsights.manisuec.com/nodejs/dynamodb-complete-guide/) 
 <!-- BLOG:END -->
 </div>
 
