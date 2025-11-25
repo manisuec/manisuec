@@ -32,25 +32,25 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Advanced Authentication Patterns in Node.js &amp; Express.js](https://techinsights.manisuec.com/nodejs/advanced-authentication-patterns/) 
+
+
  ⛳:  [HTTPS and SSL/TLS: Securing Node.js Applications in 2025](https://techinsights.manisuec.com/nodejs/https-ssl-tls-securing-nodejs-applications/) 
 
 
- ⛳:  [Ship Safer Nodejs APIs: Validate &amp; Sanitize &lpar;Joi vs Zod&rpar;](https://techinsights.manisuec.com/nodejs/input-validation-and-sanitization-joi-vs-zod/) 
+ 📘:  [Ship Safer Nodejs APIs: Validate &amp; Sanitize &lpar;Joi vs Zod&rpar;](https://techinsights.manisuec.com/nodejs/input-validation-and-sanitization-joi-vs-zod/) 
 
 
  📘:  [Node.js Error Handling: Strategies for Production Applications](https://techinsights.manisuec.com/nodejs/error-handling-nodejs/) 
 
 
- 📘:  [Puppeteer Mastery: Complete Guide to Headless Browser Automation](https://techinsights.manisuec.com/nodejs/puppeteer-mastery-guide/) 
+ 💯:  [Puppeteer Mastery: Complete Guide to Headless Browser Automation](https://techinsights.manisuec.com/nodejs/puppeteer-mastery-guide/) 
 
 
- 💯:  [Supercharging JavaScript: V8 JIT Optimization Techniques](https://techinsights.manisuec.com/javascript/v8-jit-compiler-optimization-techniques/) 
+ 🚀:  [Supercharging JavaScript: V8 JIT Optimization Techniques](https://techinsights.manisuec.com/javascript/v8-jit-compiler-optimization-techniques/) 
 
 
- 🚀:  [Mongoose Advanced Patterns: 7 Uncommon Techniques for Complex Data Modeling](https://techinsights.manisuec.com/mongodb/mongoose-uncommon-patterns/) 
-
-
- ♻️:  [Amazon DynamoDB: The Complete Production Guide to NoSQL at Scale](https://techinsights.manisuec.com/nodejs/dynamodb-complete-guide/) 
+ ♻️:  [Mongoose Advanced Patterns: 7 Uncommon Techniques for Complex Data Modeling](https://techinsights.manisuec.com/mongodb/mongoose-uncommon-patterns/) 
 <!-- BLOG:END -->
 </div>
 
