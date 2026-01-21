@@ -32,25 +32,25 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [HTTP Headers: Complete Guide to Secure &amp; Optimize Your APIs](https://techinsights.manisuec.com/nodejs/http-headers-complete-guide/) 
+
+
  ⛳:  [Master Input Validation &amp; Sanitization in Node.js/Expressjs](https://techinsights.manisuec.com/nodejs/input-validation-sanitization/) 
 
 
- ⛳:  [Integrate LLMs into Dev Pipelines: Practical Guide](https://techinsights.manisuec.com/general/ai-assisted-development/) 
+ 📘:  [Integrate LLMs into Dev Pipelines: Practical Guide](https://techinsights.manisuec.com/general/ai-assisted-development/) 
 
 
  📘:  [Master Git Worktrees: Ditch the Stash &amp; Boost Your Workflow](https://techinsights.manisuec.com/general/git-worktree/) 
 
 
- 📘:  [Advanced Authentication Patterns in Node.js &amp; Express.js](https://techinsights.manisuec.com/nodejs/advanced-authentication-patterns/) 
+ 💯:  [Advanced Authentication Patterns in Node.js &amp; Express.js](https://techinsights.manisuec.com/nodejs/advanced-authentication-patterns/) 
 
 
- 💯:  [HTTPS and SSL/TLS: Securing Node.js Applications in 2025](https://techinsights.manisuec.com/nodejs/https-ssl-tls-securing-nodejs-applications/) 
+ 🚀:  [HTTPS and SSL/TLS: Securing Node.js Applications in 2025](https://techinsights.manisuec.com/nodejs/https-ssl-tls-securing-nodejs-applications/) 
 
 
- 🚀:  [Ship Safer Nodejs APIs: Validate &amp; Sanitize &lpar;Joi vs Zod&rpar;](https://techinsights.manisuec.com/nodejs/input-validation-and-sanitization-joi-vs-zod/) 
-
-
- ♻️:  [Node.js Error Handling: Strategies for Production Applications](https://techinsights.manisuec.com/nodejs/error-handling-nodejs/) 
+ ♻️:  [Ship Safer Nodejs APIs: Validate &amp; Sanitize &lpar;Joi vs Zod&rpar;](https://techinsights.manisuec.com/nodejs/input-validation-and-sanitization-joi-vs-zod/) 
 <!-- BLOG:END -->
 </div>
 
