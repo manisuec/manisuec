@@ -6,10 +6,7 @@
 [<a href="https://www.instagram.com/_lifeclicks"><img src="https://raw.githubusercontent.com/manisuec/manisuec/refs/heads/main/.github/images/instagram.svg" title="Instagram" alt="Manish Prasad Instagram profile" width="30"/></a>](https://www.instagram.com/_lifeclicks)
 [<a href="https://manisuec.com" target="_blank"><img src="https://user-images.githubusercontent.com/6031883/143293913-79d44c90-9013-4199-938d-763bd5d97573.jpeg" alt="https://manisuec.com" width="32" height="32" align="left"></a>](https://manisuec.com)
 [<a href="https://medium.com/@manisuec" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>](https://medium.com/@manisuec)
-
 </br>
-</br>
-
 ### Languages and Tools
 
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -17,8 +14,6 @@
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<br />
-<br />
 <br />
 
 <!-- Add this to your repository's README.md -->
