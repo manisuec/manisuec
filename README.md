@@ -25,25 +25,25 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [From AMD/UMD to ESM: A No-Nonsense Migration Guide](https://techinsights.manisuec.com/javascript/esm-migration-guide/) 
+
+
  ⛳:  [TypeScript 6.0 Breaking Changes &amp; New Features Explained](https://techinsights.manisuec.com/javascript/navigating-waves-of-change-typescript-6/) 
 
 
- ⛳:  [HTTP Headers: Complete Guide to Secure &amp; Optimize Your APIs](https://techinsights.manisuec.com/nodejs/http-headers-complete-guide/) 
+ 📘:  [HTTP Headers: Complete Guide to Secure &amp; Optimize Your APIs](https://techinsights.manisuec.com/nodejs/http-headers-complete-guide/) 
 
 
  📘:  [Master Input Validation &amp; Sanitization in Node.js/Expressjs](https://techinsights.manisuec.com/nodejs/input-validation-sanitization/) 
 
 
- 📘:  [Integrate LLMs into Dev Pipelines: Practical Guide](https://techinsights.manisuec.com/general/ai-assisted-development/) 
+ 💯:  [Integrate LLMs into Dev Pipelines: Practical Guide](https://techinsights.manisuec.com/general/ai-assisted-development/) 
 
 
- 💯:  [Master Git Worktrees: Ditch the Stash &amp; Boost Your Workflow](https://techinsights.manisuec.com/general/git-worktree/) 
+ 🚀:  [Master Git Worktrees: Ditch the Stash &amp; Boost Your Workflow](https://techinsights.manisuec.com/general/git-worktree/) 
 
 
- 🚀:  [Advanced Authentication Patterns in Node.js &amp; Express.js](https://techinsights.manisuec.com/nodejs/advanced-authentication-patterns/) 
-
-
- ♻️:  [HTTPS and SSL/TLS: Securing Node.js Applications in 2025](https://techinsights.manisuec.com/nodejs/https-ssl-tls-securing-nodejs-applications/) 
+ ♻️:  [Advanced Authentication Patterns in Node.js &amp; Express.js](https://techinsights.manisuec.com/nodejs/advanced-authentication-patterns/) 
 <!-- BLOG:END -->
 </div>
 
