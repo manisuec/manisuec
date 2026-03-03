@@ -25,25 +25,25 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Run Linux Containers on macOS with Apple&#39;s CLI](https://techinsights.manisuec.com/general/apple-container-cli/) 
+
+
  ⛳:  [From AMD/UMD to ESM: A No-Nonsense Migration Guide](https://techinsights.manisuec.com/javascript/esm-migration-guide/) 
 
 
- ⛳:  [TypeScript 6.0 Breaking Changes &amp; New Features Explained](https://techinsights.manisuec.com/javascript/navigating-waves-of-change-typescript-6/) 
+ 📘:  [TypeScript 6.0 Breaking Changes &amp; New Features Explained](https://techinsights.manisuec.com/javascript/navigating-waves-of-change-typescript-6/) 
 
 
  📘:  [HTTP Headers: Complete Guide to Secure &amp; Optimize Your APIs](https://techinsights.manisuec.com/nodejs/http-headers-complete-guide/) 
 
 
- 📘:  [Master Input Validation &amp; Sanitization in Node.js/Expressjs](https://techinsights.manisuec.com/nodejs/input-validation-sanitization/) 
+ 💯:  [Master Input Validation &amp; Sanitization in Node.js/Expressjs](https://techinsights.manisuec.com/nodejs/input-validation-sanitization/) 
 
 
- 💯:  [Integrate LLMs into Dev Pipelines: Practical Guide](https://techinsights.manisuec.com/general/ai-assisted-development/) 
+ 🚀:  [Integrate LLMs into Dev Pipelines: Practical Guide](https://techinsights.manisuec.com/general/ai-assisted-development/) 
 
 
- 🚀:  [Master Git Worktrees: Ditch the Stash &amp; Boost Your Workflow](https://techinsights.manisuec.com/general/git-worktree/) 
-
-
- ♻️:  [Advanced Authentication Patterns in Node.js &amp; Express.js](https://techinsights.manisuec.com/nodejs/advanced-authentication-patterns/) 
+ ♻️:  [Master Git Worktrees: Ditch the Stash &amp; Boost Your Workflow](https://techinsights.manisuec.com/general/git-worktree/) 
 <!-- BLOG:END -->
 </div>
 
