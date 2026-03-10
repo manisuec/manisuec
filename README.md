@@ -25,25 +25,25 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Understanding Promise.withResolvers&lpar;&rpar; in JavaScript](https://techinsights.manisuec.com/javascript/promise-with-resolvers/) 
+
+
  ⛳:  [MongoDB Backup and Recovery: Disaster Prevention Strategies](https://techinsights.manisuec.com/mongodb/mongodb-backup-and-recovery/) 
 
 
- ⛳:  [Run Linux Containers on macOS with Apple&#39;s CLI](https://techinsights.manisuec.com/general/apple-container-cli/) 
+ 📘:  [Run Linux Containers on macOS with Apple&#39;s CLI](https://techinsights.manisuec.com/general/apple-container-cli/) 
 
 
  📘:  [From AMD/UMD to ESM: A No-Nonsense Migration Guide](https://techinsights.manisuec.com/javascript/esm-migration-guide/) 
 
 
- 📘:  [TypeScript 6.0 Breaking Changes &amp; New Features Explained](https://techinsights.manisuec.com/javascript/navigating-waves-of-change-typescript-6/) 
+ 💯:  [TypeScript 6.0 Breaking Changes &amp; New Features Explained](https://techinsights.manisuec.com/javascript/navigating-waves-of-change-typescript-6/) 
 
 
- 💯:  [HTTP Headers: Complete Guide to Secure &amp; Optimize Your APIs](https://techinsights.manisuec.com/nodejs/http-headers-complete-guide/) 
+ 🚀:  [HTTP Headers: Complete Guide to Secure &amp; Optimize Your APIs](https://techinsights.manisuec.com/nodejs/http-headers-complete-guide/) 
 
 
- 🚀:  [Master Input Validation &amp; Sanitization in Node.js/Expressjs](https://techinsights.manisuec.com/nodejs/input-validation-sanitization/) 
-
-
- ♻️:  [Integrate LLMs into Dev Pipelines: Practical Guide](https://techinsights.manisuec.com/general/ai-assisted-development/) 
+ ♻️:  [Master Input Validation &amp; Sanitization in Node.js/Expressjs](https://techinsights.manisuec.com/nodejs/input-validation-sanitization/) 
 <!-- BLOG:END -->
 </div>
 
