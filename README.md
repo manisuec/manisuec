@@ -25,25 +25,25 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Integrating AI and LLMs with Node.js: A Practical Guide](https://techinsights.manisuec.com/nodejs/ai-llm-nodejs-integration/) 
+
+
  ⛳:  [MongoDB Aggregation Pipeline Performance Tuning](https://techinsights.manisuec.com/mongodb/mongodb-aggregation-pipeline-performance/) 
 
 
- ⛳:  [Understanding Promise.withResolvers&lpar;&rpar; in JavaScript](https://techinsights.manisuec.com/javascript/promise-with-resolvers/) 
+ 📘:  [Understanding Promise.withResolvers&lpar;&rpar; in JavaScript](https://techinsights.manisuec.com/javascript/promise-with-resolvers/) 
 
 
  📘:  [MongoDB Backup and Recovery: Disaster Prevention Strategies](https://techinsights.manisuec.com/mongodb/mongodb-backup-and-recovery/) 
 
 
- 📘:  [Run Linux Containers on macOS with Apple&#39;s CLI](https://techinsights.manisuec.com/general/apple-container-cli/) 
+ 💯:  [Run Linux Containers on macOS with Apple&#39;s CLI](https://techinsights.manisuec.com/general/apple-container-cli/) 
 
 
- 💯:  [From AMD/UMD to ESM: A No-Nonsense Migration Guide](https://techinsights.manisuec.com/javascript/esm-migration-guide/) 
+ 🚀:  [From AMD/UMD to ESM: A No-Nonsense Migration Guide](https://techinsights.manisuec.com/javascript/esm-migration-guide/) 
 
 
- 🚀:  [TypeScript 6.0 Breaking Changes &amp; New Features Explained](https://techinsights.manisuec.com/javascript/navigating-waves-of-change-typescript-6/) 
-
-
- ♻️:  [HTTP Headers: Complete Guide to Secure &amp; Optimize Your APIs](https://techinsights.manisuec.com/nodejs/http-headers-complete-guide/) 
+ ♻️:  [TypeScript 6.0 Breaking Changes &amp; New Features Explained](https://techinsights.manisuec.com/javascript/navigating-waves-of-change-typescript-6/) 
 <!-- BLOG:END -->
 </div>
 
