@@ -38,12 +38,6 @@
 
 
  💯:  [Run Linux Containers on macOS with Apple&#39;s CLI](https://techinsights.manisuec.com/general/apple-container-cli/) 
-
-
- 🚀:  [From AMD/UMD to ESM: A No-Nonsense Migration Guide](https://techinsights.manisuec.com/javascript/esm-migration-guide/) 
-
-
- ♻️:  [TypeScript 6.0 Breaking Changes &amp; New Features Explained](https://techinsights.manisuec.com/javascript/navigating-waves-of-change-typescript-6/) 
 <!-- BLOG:END -->
 </div>
 
