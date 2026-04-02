@@ -25,19 +25,19 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Node.js Error Handling Patterns for Production](https://techinsights.manisuec.com/nodejs/error-handling-patterns/) 
+
+
  ⛳:  [Integrating AI and LLMs with Node.js: A Practical Guide](https://techinsights.manisuec.com/nodejs/ai-llm-nodejs-integration/) 
 
 
- ⛳:  [MongoDB Aggregation Pipeline Performance Tuning](https://techinsights.manisuec.com/mongodb/mongodb-aggregation-pipeline-performance/) 
+ 📘:  [MongoDB Aggregation Pipeline Performance Tuning](https://techinsights.manisuec.com/mongodb/mongodb-aggregation-pipeline-performance/) 
 
 
  📘:  [Understanding Promise.withResolvers&lpar;&rpar; in JavaScript](https://techinsights.manisuec.com/javascript/promise-with-resolvers/) 
 
 
- 📘:  [MongoDB Backup and Recovery: Disaster Prevention Strategies](https://techinsights.manisuec.com/mongodb/mongodb-backup-and-recovery/) 
-
-
- 💯:  [Run Linux Containers on macOS with Apple&#39;s CLI](https://techinsights.manisuec.com/general/apple-container-cli/) 
+ 💯:  [MongoDB Backup and Recovery: Disaster Prevention Strategies](https://techinsights.manisuec.com/mongodb/mongodb-backup-and-recovery/) 
 <!-- BLOG:END -->
 </div>
 
