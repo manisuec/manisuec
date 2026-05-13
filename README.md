@@ -25,19 +25,19 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Node.js Memory Management and Debugging](https://techinsights.manisuec.com/nodejs/memory-management-debugging/) 
+
+
  ⛳:  [JavaScript WeakRef: The Feature You Probably Shouldn&#39;t Use](https://techinsights.manisuec.com/javascript/weak-reference/) 
 
 
- ⛳:  [15 Configuration Files Every Developer Should Know](https://techinsights.manisuec.com/general/config-files/) 
+ 📘:  [15 Configuration Files Every Developer Should Know](https://techinsights.manisuec.com/general/config-files/) 
 
 
  📘:  [Node.js with TypeScript in 2025: Best Practices Guide](https://techinsights.manisuec.com/nodejs/typescript-best-practices/) 
 
 
- 📘:  [Node.js Error Handling Patterns for Production](https://techinsights.manisuec.com/nodejs/error-handling-patterns/) 
-
-
- 💯:  [Integrating AI and LLMs with Node.js: A Practical Guide](https://techinsights.manisuec.com/nodejs/ai-llm-nodejs-integration/) 
+ 💯:  [Node.js Error Handling Patterns for Production](https://techinsights.manisuec.com/nodejs/error-handling-patterns/) 
 <!-- BLOG:END -->
 </div>
 
