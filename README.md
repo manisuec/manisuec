@@ -25,19 +25,19 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Mongoose vs MongoDB Driver: When to Use What](https://techinsights.manisuec.com/mongodb/mongoose-vs-mongodb-driver/) 
+
+
  ⛳:  [Mendel: A Self-Hosted A/B Testing Framework](https://techinsights.manisuec.com/general/mendel-ab-testing-framework/) 
 
 
- ⛳:  [Structured Logging in Nodejs: A Complete Guide to Pino](https://techinsights.manisuec.com/nodejs/structured-logging-node-pino/) 
+ 📘:  [Structured Logging in Nodejs: A Complete Guide to Pino](https://techinsights.manisuec.com/nodejs/structured-logging-node-pino/) 
 
 
  📘:  [Node.js Memory Management and Debugging](https://techinsights.manisuec.com/nodejs/memory-management-debugging/) 
 
 
- 📘:  [JavaScript WeakRef: The Feature You Probably Shouldn&#39;t Use](https://techinsights.manisuec.com/javascript/weak-reference/) 
-
-
- 💯:  [15 Configuration Files Every Developer Should Know](https://techinsights.manisuec.com/general/config-files/) 
+ 💯:  [JavaScript WeakRef: The Feature You Probably Shouldn&#39;t Use](https://techinsights.manisuec.com/javascript/weak-reference/) 
 <!-- BLOG:END -->
 </div>
 
