@@ -25,19 +25,19 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Try-Catch Everywhere? 4 Patterns Senior Devs Use Instead](https://techinsights.manisuec.com/nodejs/error-handling-senior-dev-patterns/) 
+
+
  ⛳:  [Native TypeScript Support in Node.js 24: What It Really Changes!](https://techinsights.manisuec.com/nodejs/nodejs-typescript/) 
 
 
- ⛳:  [Mongoose vs MongoDB Driver: When to Use What](https://techinsights.manisuec.com/mongodb/mongoose-vs-mongodb-driver/) 
+ 📘:  [Mongoose vs MongoDB Driver: When to Use What](https://techinsights.manisuec.com/mongodb/mongoose-vs-mongodb-driver/) 
 
 
  📘:  [Mendel: A Self-Hosted A/B Testing Framework](https://techinsights.manisuec.com/general/mendel-ab-testing-framework/) 
 
 
- 📘:  [Structured Logging in Nodejs: A Complete Guide to Pino](https://techinsights.manisuec.com/nodejs/structured-logging-node-pino/) 
-
-
- 💯:  [Node.js Memory Management and Debugging](https://techinsights.manisuec.com/nodejs/memory-management-debugging/) 
+ 💯:  [Structured Logging in Nodejs: A Complete Guide to Pino](https://techinsights.manisuec.com/nodejs/structured-logging-node-pino/) 
 <!-- BLOG:END -->
 </div>
 
