@@ -25,19 +25,19 @@
   <br />
   <!-- BLOG:START -->
 
- ⛳:  [AI Gateway vs API Gateway: Build LLM Middleware in Node.js](https://techinsights.manisuec.com/nodejs/ai-gateway-llm-middleware/) 
+ ⛳:  [I Deleted Jest: Testing with Node&#39;s Built-in Test Runner](https://techinsights.manisuec.com/nodejs/node-test-runner/) 
 
 
- ⛳:  [Moment.js to Temporal: A Migration Guide for 2026](https://techinsights.manisuec.com/javascript/default-temporal/) 
+ ⛳:  [I Deleted nodemon and dotenv in Node 24](https://techinsights.manisuec.com/nodejs/node-replace-dev-dependencies/) 
 
 
- 📘:  [Worker Threads vs Cluster vs Child Process in Node.js](https://techinsights.manisuec.com/nodejs/worker-threads-vs-cluster-vs-child-process/) 
+ 📘:  [AI Gateway vs API Gateway: Build LLM Middleware in Node.js](https://techinsights.manisuec.com/nodejs/ai-gateway-llm-middleware/) 
 
 
- 📘:  [Node.js v26 Upgrade: Temporal by Default, Type Stripping](https://techinsights.manisuec.com/nodejs/nodejs-26/) 
+ 📘:  [Moment.js to Temporal: A Migration Guide for 2026](https://techinsights.manisuec.com/javascript/default-temporal/) 
 
 
- 💯:  [Try-Catch Everywhere? 4 Patterns Senior Devs Use Instead](https://techinsights.manisuec.com/nodejs/error-handling-senior-dev-patterns/) 
+ 💯:  [Worker Threads vs Cluster vs Child Process in Node.js](https://techinsights.manisuec.com/nodejs/worker-threads-vs-cluster-vs-child-process/) 
 <!-- BLOG:END -->
 </div>
 
