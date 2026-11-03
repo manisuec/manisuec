@@ -25,19 +25,19 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [tsconfig.json Recipes for TypeScript 7 &lpar;React, Next, Node&rpar;](https://techinsights.manisuec.com/javascript/practical-tsconfig-recipes/) 
+
+
  ⛳:  [I Deleted Jest: Testing with Node&#39;s Built-in Test Runner](https://techinsights.manisuec.com/nodejs/node-test-runner/) 
 
 
- ⛳:  [I Deleted nodemon and dotenv in Node 24](https://techinsights.manisuec.com/nodejs/node-replace-dev-dependencies/) 
+ 📘:  [I Deleted nodemon and dotenv in Node 24](https://techinsights.manisuec.com/nodejs/node-replace-dev-dependencies/) 
 
 
  📘:  [AI Gateway vs API Gateway: Build LLM Middleware in Node.js](https://techinsights.manisuec.com/nodejs/ai-gateway-llm-middleware/) 
 
 
- 📘:  [Moment.js to Temporal: A Migration Guide for 2026](https://techinsights.manisuec.com/javascript/default-temporal/) 
-
-
- 💯:  [Worker Threads vs Cluster vs Child Process in Node.js](https://techinsights.manisuec.com/nodejs/worker-threads-vs-cluster-vs-child-process/) 
+ 💯:  [Moment.js to Temporal: A Migration Guide for 2026](https://techinsights.manisuec.com/javascript/default-temporal/) 
 <!-- BLOG:END -->
 </div>
 
