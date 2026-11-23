@@ -25,19 +25,19 @@
   <br />
   <!-- BLOG:START -->
 
+ ⛳:  [Rate Limiting and Idempotency Keys in Node.js APIs](https://techinsights.manisuec.com/nodejs/rate-limiting-idempotency-keys/) 
+
+
  ⛳:  [JWT Auth in Node.js &amp; Express: Access + Refresh Tokens](https://techinsights.manisuec.com/nodejs/jwt-authentication-implementation/) 
 
 
- ⛳:  [tsconfig.json Recipes for TypeScript 7 &lpar;React, Next, Node&rpar;](https://techinsights.manisuec.com/javascript/practical-tsconfig-recipes/) 
+ 📘:  [tsconfig.json Recipes for TypeScript 7 &lpar;React, Next, Node&rpar;](https://techinsights.manisuec.com/javascript/practical-tsconfig-recipes/) 
 
 
  📘:  [I Deleted Jest: Testing with Node&#39;s Built-in Test Runner](https://techinsights.manisuec.com/nodejs/node-test-runner/) 
 
 
- 📘:  [I Deleted nodemon and dotenv in Node 24](https://techinsights.manisuec.com/nodejs/node-replace-dev-dependencies/) 
-
-
- 💯:  [AI Gateway vs API Gateway: Build LLM Middleware in Node.js](https://techinsights.manisuec.com/nodejs/ai-gateway-llm-middleware/) 
+ 💯:  [I Deleted nodemon and dotenv in Node 24](https://techinsights.manisuec.com/nodejs/node-replace-dev-dependencies/) 
 <!-- BLOG:END -->
 </div>
 
